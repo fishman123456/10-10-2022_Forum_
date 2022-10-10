@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\bin\Debug\net6.0\10-10-2022_Forum_.exe
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\bin\Debug\net6.0\10-10-2022_Forum_.deps.json
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\bin\Debug\net6.0\10-10-2022_Forum_.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\bin\Debug\net6.0\10-10-2022_Forum_.dll
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\bin\Debug\net6.0\10-10-2022_Forum_.pdb
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.dll
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\refint\10-10-2022_Forum_.dll
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.pdb
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\10-10-2022_Forum_.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\10-10-2022_Forum_\obj\Debug\net6.0\ref\10-10-2022_Forum_.dll
