@@ -9,6 +9,11 @@ myArr_A = new int[5]; // задаём кол-во элементов
 float [,] myArr_B; // обьявляем одномерный массив
 myArr_B = new float[3,4]; // задаём кол-во элементов
 Random rand = new Random(); // выделяем память под функцию рандом
+Console.Title = " Пример использования инструментов класса Console"; // оформление
+    Console.BackgroundColor = ConsoleColor.Black; //изменяет цвет фона
+Console.ForegroundColor = ConsoleColor.DarkGreen;//изменяет цвет текста
+Console.SetWindowSize(100, 20);//устанавливаем размер окна консоли
+
 Console.WriteLine(); // перенос на новую строку
 Console.WriteLine("Одномерный массив:\t"); // вывод на консоль 
 
