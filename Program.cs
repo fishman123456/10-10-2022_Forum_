@@ -28,9 +28,13 @@ switch (Console.ReadKey().Key)
         default:
         Console.WriteLine("выход");
         break;
+
+
         static void print(int[] arr)
         {
-            for(int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
+            {
                 Console.WriteLine(arr[i]);
+            }
         }
 }
